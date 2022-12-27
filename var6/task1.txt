@@ -1,0 +1,5 @@
+#!/bin/bash
+extension="${1##*.}"
+if [ $extension == "py" ]; then
+	grep -v -i "^#" $1 > tmpfile && mv tmpfile $1
+fi

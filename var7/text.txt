@@ -1,0 +1,4 @@
+def foo(a, b):
+   s = 0
+    s += 1
+    print(s)

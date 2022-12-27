@@ -1,0 +1,1 @@
+\Pi_0(x)=li(x)-\sum_{p}li(x^\rho)-log2+\int_{x}^{\infty}\frac{dt}{t(t^2-1)logt}

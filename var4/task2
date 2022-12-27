@@ -1,0 +1,3 @@
+\Pi_0(x)=\frac{1}{2}\left(\sum_{p^n<x}\frac{1}{n}+\sum_{p^n\le x}\frac{1}{n}\right)
+
+то же самое, что и задание 1 в варианте 3
