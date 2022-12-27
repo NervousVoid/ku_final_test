@@ -1,0 +1,18 @@
+<list>
+   <dict>
+       <list key="level">
+           <int>123</int>
+           <int>123</int>
+           <string>event</string>
+           <float>-202.75</float>
+       </list>
+       <list key="pot">
+           <string key="suggest">feel</string>
+           <string key="finger">flow</string>
+       </list>
+       <bool key="small">False</bool>
+   </dict>
+   <int>123</int>
+   <bool>True</bool>
+   <float>123.123</float>
+</list>
