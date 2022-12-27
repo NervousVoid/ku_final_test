@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <list>
+    <dictionary>
+      <key name="done">
+        <string>supper</string>
+      </key>
+      <key name="busy">
+        <string>sale</string>
+      </key>
+      <key name="native">
+        <number>-1287972767</number>
+      </key>
+      <key name="guess">
+        <dictionary>
+          <key name="perfect">
+            <string>consider</string>
+          </key>
+          <key name="silly">
+            <boolean>False</boolean>
+          </key>
+          <key name="cast">
+            <boolean>False</boolean>
+          </key>
+          <key name="environment">
+            <string>science</string>
+          </key>
+          <key name="information">
+            <float>718593819.9913969</float>
+          </key>
+          <key name="nose">
+            <float>-925267366.2419429</float>
+          </key>
+          <key name="wrapped">
+            <string>could</string>
+          </key>
+          <key name="vegetable">
+            <string>dirt</string>
+          </key>
+        </dictionary>
+      </key>
+    </dictionary>
+    <number>1549812489</number>
+    <number>187526546</number>
+    <string>why</string>
+    <string>plain</string>
+    <number>-2117841348</number>
+  </list>
+</root>
