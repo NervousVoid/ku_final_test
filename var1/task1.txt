@@ -1,0 +1,19 @@
+#!/bin/bash
+
+if [ -r "$1" ]; then
+	echo "readable yes"
+else
+	echo "readable no"
+fi
+
+if [ -w "$1" ]; then
+	echo "writable yes"
+else
+	echo "writable no"
+fi
+
+if [ -x "$1" ]; then
+	echo "executable yes"
+else
+	echo "executable no"
+fi
