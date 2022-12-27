@@ -1,4 +1,5 @@
 https://latex.codecogs.com/legacy/eqneditor/editor.php
 https://inst.eecs.berkeley.edu/~cs61a/fa14/assets/interpreter/scheme.html
 http://git-school.github.io/visualizing-git/
-https://docs.google.com/document/d/1AH6JW4ysP_r1I92iqgJLVrmMgXg2LkYc4EfcMg_ynxg/edit	
+https://docs.google.com/document/d/1AH6JW4ysP_r1I92iqgJLVrmMgXg2LkYc4EfcMg_ynxg/edit
+https://codebeautify.org/xmlvalidator
